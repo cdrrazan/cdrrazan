@@ -9,12 +9,12 @@
 
 > 🐦  Tweets about blog, brands, coding, tech, open source, security and sometimes little personal on **[ Twitter | @cdrrazan. ](https://rajan.link/twitter)**
 
-> 📷  Clicks random sky photos and posts in the **[photoinx.art](https://photoinx.art)**
+> 📷  Clicks random sky photos and posts in the **[photo || Yblog](https://photoinx.yblog.in)**
 
 
 📫 Subscribe to my Webdev and CyberSecyurity Newsletter - [Devis | Newsletter for Dev!](https://getdevis.com)
 
-✉️ Reach me on **[my twitter](https://rajan.link/twitter)** or **[mail me here](mailto:hey@rajanbhattarai.com)**.
+✉️ Reach me on **[my twitter](https://rajan.link/twitter)** or **[mail me here](mailto:woodstoner8@proton.me)**.
 
 ---
 ![](https://visitor-badge.glitch.me/badge?page_id=cdrrazan)
