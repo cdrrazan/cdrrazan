@@ -14,7 +14,7 @@
 
 📫 Subscribe to my Webdev and CyberSecyurity Newsletter - [Devis | Newsletter for Dev!](https://getdevis.com)
 
-✉️ Reach me on **[my twitter](https://rajan.link/twitter)** or **[mail me here](mailto:woodstoner8@proton.me)**.
+✉️ Reach me on **[my twitter](https://rajan.link/twitter)** or **[mail me here](mailto:rsynk@proton.me)**.
 
 ---
 ![](https://visitor-badge.glitch.me/badge?page_id=cdrrazan)
