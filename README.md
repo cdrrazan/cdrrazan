@@ -7,7 +7,7 @@
 
 > 📝  Writes about **programming | branding | security**. Portfolio.: **[[cdrrazan.com]](https://cdrrazan.com)** Dev.: **[[FirstDEV.blog]](https://firstdev.blog)**
 
-> 🐦  Tweets about blog, brands, tech and security on **[ X | @cdrrazan. ](https://rajan.link/twitter)** | Full Dev Experience on **[ X | @rajanHQ. ](https://rajan.link/r/twitter)** 
+> 🐦  Tweets about blog, brands, tech and security on **[ X | @cdrrazan ](https://rajan.link/twitter)** || Full Dev Experience on **[ X | @rajanHQ. ](https://rajan.link/r/twitter)** 
 
 > 📷  Clicks random sky photos and posts in the **[photo | Yblog](https://photoinx.yblog.in)**
 
