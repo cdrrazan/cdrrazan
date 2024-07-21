@@ -9,7 +9,7 @@
 
 > 🐦  Tweets about blog, brands, tech and security on **[ X | @cdrrazan ](https://rajan.link/twitter)** || Full Dev Experience on **[ X | @rajanHQ. ](https://rajan.link/r/twitter)** 
 
-> 📷  Clicks random sky photos and posts in the **[photo | Yblog](https://photoinx.yblog.in)**
+> 📷  Clicks random sky photos and posts in the **[photo | Yblog](https://photo.yblog.in)**
 
 
 📫 Subscribe to my Webdev and CyberSecyurity Newsletter - **[Devis | Newsletter for Dev!](https://getdevis.com)**
