@@ -5,7 +5,7 @@
 
 ---
 
-> 📝  Writes about **programming | branding | security**. Portfolio.: **[[cdrrazan.com]](https://cdrrazan.com)** Dev.: **[[FirstDEV.blog]](https://firstdev.blog)**
+> 📝  Writes about **programming | branding | security**. Portfolio.: **[[cdrrazan.com]](https://cdrrazan.com)** Dev.: **[[FirstDEV.blog]](https://dev.yblog.in)**
 
 > 🐦  Tweets about blog, brands, tech and security on **[ X | @cdrrazan ](https://rajan.link/twitter)** || Full Dev Experience on **[ X | @rajanHQ. ](https://rajan.link/r/twitter)** 
 
