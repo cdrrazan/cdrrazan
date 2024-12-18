@@ -7,12 +7,11 @@
 
 > 📝  Writes about **programming | branding | security**. Portfolio.: **[[cdrrazan.com]](https://cdrrazan.com)** Dev.: **[[FirstDEV.blog]](https://dev.yblog.in)**
 
-> 🐦  Tweets about blog, brands, tech and security on **[ X | @cdrrazan ](https://rajan.link/twitter)** || Full Dev Experience on **[ X | @rajanHQ. ](https://rajan.link/r/twitter)** 
+> 🐦  Tweets about blog, brands, tech , security && Full Dev Experience on **[ X | @rajanHQ. ](https://rajan.link/r/twitter)** 
 
 > 📷  Clicks random sky photos and posts in the **[photo | Yblog](https://photo.yblog.in)**
 
 
-📫 Subscribe to my Webdev and CyberSecyurity Newsletter - **[Devis | Newsletter for Dev!](https://getdevis.com)**
 
 ✉️ Reach me on **[my DEV twitter](https://rajan.link/r/twitter)** or **[proton mail me here](mailto:rsynk@proton.me)**.
 
