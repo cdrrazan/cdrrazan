@@ -3,15 +3,6 @@
 
 <p align="center">🔭 I am software engineer primarily interested in Web Development and CyberSecurity!</p> 
 
----
-
-> 📝  Writes about **programming | branding | security**. Portfolio.: **[[cdrrazan.com]](https://cdrrazan.com)** Dev.: **[[FirstDEV.blog]](https://dev.yblog.in)**
-
-> 🐦  Tweets about blog, brands, tech , security && Full Dev Experience on **[ X | @rajanHQ. ](https://rajan.link/r/twitter)** 
-
-> 📷  Clicks random sky photos and posts in the **[photo | Yblog](https://photo.yblog.in)**
-
-
 
 ✉️ Reach me on **[my DEV twitter](https://rajan.link/r/twitter)** or **[proton mail me here](mailto:rsynk@proton.me)**.
 
