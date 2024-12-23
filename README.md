@@ -3,6 +3,7 @@
 
 <p align="center">🔭 I am software engineer primarily interested in Web Development and CyberSecurity!</p> 
 
+✉️ Reach me on **[my DEV twitter](https://rajan.link/r/twitter)** or **[mail me here](mailto:rajan@rajanbhattarai.com)**.
+
 ![](https://visitor-badge.glitch.me/badge?page_id=cdrrazan)
 
-✉️ Reach me on **[my DEV twitter](https://rajan.link/r/twitter)** or **[mail me here](mailto:rajan@rajanbhattarai.com)**.
