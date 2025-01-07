@@ -3,7 +3,7 @@
 
 <p align="center">🔭 <i> I am a software engineer primarily interested in Web Development and CyberSecurity! </i> 🔭 </p> 
 
-I hold a Master's Degree in Computer Science from Lincoln University, Malaysia, and bring over 5 years of professional experience in the Information Technology and Services industry.
+I hold a Master's Degree in Computer Science from Lincoln University, Malaysia, and bring over 6+ years of professional experience in the Information Technology and Services industry.
 
 As a Full Stack Web Developer, I specialize in building robust and scalable websites and web applications, with a particular expertise in Ruby on Rails. My passion for technology extends to the dynamic field of Cybersecurity, where I avidly follow global trends and developments.
 
