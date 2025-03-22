@@ -5,8 +5,8 @@
 <p align="center">🔭 <i> I am a software engineer & the author of "Code Your Brand". </i> <br/> <i> My primary interest is in Web Development, Personal Branding, and CyberSecurity! </i> 🔭  </p> 
 
 <p align="center">
-  <img src="https://i.imgur.com/LKoOvY3.png" width="200" /> 
-  <img src="https://i.imgur.com/sz0CIPQ.png3" width="200" />
+  <img src="https://i.imgur.com/kYEXfRn.jpeg" width="200" /> 
+  <img src="https://i.imgur.com/S8kB9Lj.jpeg" width="200" />
 </p>
 
 I hold a Master's Degree in Computer Science from Lincoln University, Malaysia, and bring over 6+ years of professional experience in the Information Technology and Services industry.
