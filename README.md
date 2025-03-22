@@ -2,7 +2,7 @@
 
 <h4 align="center"><a href="https://cdrrazan.com"><img src="https://img.shields.io/badge/blog-%23FFA500.svg?&style=for-the-badge&logo=rss&logoColor=white"/></a> <a href="https://rajan.link/linkedin"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>   </h4>
 
-<p align="center">🔭 <i> I am a software engineer & the author of "Code Your Brand". </i> <br/> <i> My primary interest is in Web Development, Personal Branding, and CyberSecurity! </i> 🔭  </p> 
+<p align="center">🔭 <i> I am a software engineer & the author of "Case Brand when DEV". </i> <br/> <i> My primary interest is in Web Development, Personal Branding, and CyberSecurity! </i> 🔭  </p> 
 
 <p align="center">
   <img src="https://i.imgur.com/kYEXfRn.jpeg" width="200" /> 
