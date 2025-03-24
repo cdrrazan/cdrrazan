@@ -16,6 +16,7 @@ As a Full Stack Web Developer, I specialize in building robust and scalable webs
 I am committed to leveraging my skills and knowledge to drive innovation and excellence in every project I undertake. Let's connect and explore how I can bring value to your team!
 
 ✉️ Reach me on **[my Twitter](https://x.com/cdrrazan)** or **[mail me here](mailto:rajan@rajanbhattarai.com)**.
-
 ![](https://visitor-badge.glitch.me/badge?page_id=cdrrazan)
+<br/>
 
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/D1D01BILA6)
