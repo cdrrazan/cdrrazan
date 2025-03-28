@@ -5,8 +5,8 @@
 <p align="center">🔭 <i> I am a software engineer & the author of "Case Brand when DEV". </i> <br/> <i> My primary interest is in Web Development, Personal Branding, and CyberSecurity! </i> 🔭  </p> 
 
 <p align="center">
-  <img src="https://i.imgur.com/kYEXfRn.jpeg" width="200" /> 
-  <img src="https://i.imgur.com/S8kB9Lj.jpeg" width="200" />
+  <a href="https://shop.digitonx.com/b/case-brand-when-dev"><img src="https://i.imgur.com/kYEXfRn.jpeg" width="200" /></a>
+  <a href="https://shop.digitonx.com/b/custom-domain-and-email-101"><img src="https://i.imgur.com/S8kB9Lj.jpeg" width="200" /></a>
 </p>
 
 I hold a Master's Degree in Computer Science from Lincoln University, Malaysia, and bring over 6+ years of professional experience in the Information Technology and Services industry.
