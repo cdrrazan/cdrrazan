@@ -18,10 +18,20 @@ I am committed to leveraging my skills and knowledge to drive innovation and exc
 <br/>
 
 <h2 align="center">🛠️ More Things I've Built</h2>
-<p align="center"><i>Beyond the pinned six — the apps I actually run, plus one list the community keeps starring.</i></p>
+<p align="center"><i>The apps I actually run — each one live on its own domain.</i></p>
 
 <table>
 <tr>
+<td width="33%" valign="top" align="center">
+
+<a href="https://trackaru.com"><img src="https://img.shields.io/badge/Trackaru-1a1b27?style=for-the-badge&logo=googlecalendar&logoColor=70a5fd" alt="Trackaru" /></a>
+
+Track every subscription in one place and never miss a payment again.
+
+<a href="https://trackaru.com"><img src="https://img.shields.io/badge/live-trackaru.com-38bdae?style=flat-square&labelColor=1a1b27" alt="live at trackaru.com" /></a>
+<img src="https://img.shields.io/badge/Web%20App-bf91f3?style=flat-square&labelColor=1a1b27" alt="Web App" />
+
+</td>
 <td width="33%" valign="top" align="center">
 
 <a href="https://trovaru.com"><img src="https://img.shields.io/badge/Trovaru-1a1b27?style=for-the-badge&logo=rubyonrails&logoColor=70a5fd" alt="Trovaru" /></a>
@@ -32,6 +42,9 @@ Domain & SSL operations for agencies and startups — one dashboard for domains 
 <img src="https://img.shields.io/badge/Rails-bf91f3?style=flat-square&labelColor=1a1b27" alt="Rails" />
 
 </td>
+<td width="33%" valign="top" align="center"></td>
+</tr>
+<tr>
 <td width="33%" valign="top" align="center">
 
 <a href="https://linkaru.com"><img src="https://img.shields.io/badge/Linkaru-1a1b27?style=for-the-badge&logo=typescript&logoColor=70a5fd" alt="Linkaru" /></a>
@@ -44,23 +57,11 @@ URL shortening, link analytics, and QR codes in one platform.
 </td>
 <td width="33%" valign="top" align="center">
 
-<a href="https://trackaru.com"><img src="https://img.shields.io/badge/Trackaru-1a1b27?style=for-the-badge&logo=googlecalendar&logoColor=70a5fd" alt="Trackaru" /></a>
+<a href="https://keeparu.com"><img src="https://img.shields.io/badge/Keeparu-1a1b27?style=for-the-badge&logo=rubyonrails&logoColor=70a5fd" alt="Keeparu" /></a>
 
-Track every subscription in one place and never miss a payment again.
+A private writing vault where any entry can be deliberately promoted to a public, shareable URL.
 
-<a href="https://trackaru.com"><img src="https://img.shields.io/badge/live-trackaru.com-38bdae?style=flat-square&labelColor=1a1b27" alt="live at trackaru.com" /></a>
-<img src="https://img.shields.io/badge/Web%20App-bf91f3?style=flat-square&labelColor=1a1b27" alt="Web App" />
-
-</td>
-</tr>
-<tr>
-<td width="33%" valign="top" align="center">
-
-<a href="https://pasten.byaru.com"><img src="https://img.shields.io/badge/PasteN-1a1b27?style=for-the-badge&logo=rubyonrails&logoColor=70a5fd" alt="PasteN" /></a>
-
-An end-to-end encrypted, one-time-view pastebin. Read it once and it's gone.
-
-<a href="https://pasten.byaru.com"><img src="https://img.shields.io/badge/live-pasten.byaru.com-38bdae?style=flat-square&labelColor=1a1b27" alt="live at pasten.byaru.com" /></a>
+<a href="https://keeparu.com"><img src="https://img.shields.io/badge/live-keeparu.com-38bdae?style=flat-square&labelColor=1a1b27" alt="live at keeparu.com" /></a>
 <img src="https://img.shields.io/badge/Rails-bf91f3?style=flat-square&labelColor=1a1b27" alt="Rails" />
 
 </td>
@@ -74,18 +75,28 @@ Build unlimited pages of social links and publish them straight to the app domai
 <img src="https://img.shields.io/badge/Rails-bf91f3?style=flat-square&labelColor=1a1b27" alt="Rails" />
 
 </td>
+</tr>
+<tr>
 <td width="33%" valign="top" align="center">
 
-<a href="https://keeparu.com"><img src="https://img.shields.io/badge/Keeparu-1a1b27?style=for-the-badge&logo=rubyonrails&logoColor=70a5fd" alt="Keeparu" /></a>
+<a href="https://roost.app.rsynk.com"><img src="https://img.shields.io/badge/Roost-1a1b27?style=for-the-badge&logo=go&logoColor=70a5fd" alt="Roost" /></a>
 
-A private writing vault where any entry can be deliberately promoted to a public, shareable URL.
+Every app on your laptop, live on your own domain, from one config file.
 
-<a href="https://keeparu.com"><img src="https://img.shields.io/badge/live-keeparu.com-38bdae?style=flat-square&labelColor=1a1b27" alt="live at keeparu.com" /></a>
+<a href="https://roost.app.rsynk.com"><img src="https://img.shields.io/badge/live-roost.app.rsynk.com-38bdae?style=flat-square&labelColor=1a1b27" alt="live at roost.app.rsynk.com" /></a>
+<a href="https://github.com/cdrrazan/Roost"><img src="https://img.shields.io/badge/Go-open%20source-bf91f3?style=flat-square&labelColor=1a1b27" alt="Go, open source" /></a>
+
+</td>
+<td width="33%" valign="top" align="center">
+
+<a href="https://pasten.byaru.com"><img src="https://img.shields.io/badge/PasteN-1a1b27?style=for-the-badge&logo=rubyonrails&logoColor=70a5fd" alt="PasteN" /></a>
+
+An end-to-end encrypted, one-time-view pastebin. Read it once and it's gone.
+
+<a href="https://pasten.byaru.com"><img src="https://img.shields.io/badge/live-pasten.byaru.com-38bdae?style=flat-square&labelColor=1a1b27" alt="live at pasten.byaru.com" /></a>
 <img src="https://img.shields.io/badge/Rails-bf91f3?style=flat-square&labelColor=1a1b27" alt="Rails" />
 
 </td>
-</tr>
-<tr>
 <td width="33%" valign="top" align="center">
 
 <a href="https://kromab.pages.dev"><img src="https://img.shields.io/badge/Kromab-1a1b27?style=for-the-badge&logo=cloudflare&logoColor=70a5fd" alt="Kromab" /></a>
@@ -96,21 +107,10 @@ A tiny self-hosted bookmark manager that runs entirely on Cloudflare Pages.
 <img src="https://img.shields.io/badge/Cloudflare-bf91f3?style=flat-square&labelColor=1a1b27" alt="Cloudflare" />
 
 </td>
-<td width="33%" valign="top" align="center">
-
-<a href="https://github.com/cdrrazan/awesome-ROR-interview-questions"><img src="https://img.shields.io/badge/awesome--ROR-1a1b27?style=for-the-badge&logo=awesomelists&logoColor=70a5fd" alt="awesome-ROR-interview-questions" /></a>
-
-A curated list of places to find Ruby on Rails interview questions across the internet.
-
-<a href="https://github.com/cdrrazan/awesome-ROR-interview-questions"><img src="https://img.shields.io/github/stars/cdrrazan/awesome-ROR-interview-questions?style=flat-square&labelColor=1a1b27&color=70a5fd" alt="stars" /></a>
-<img src="https://img.shields.io/badge/Open%20Source-bf91f3?style=flat-square&labelColor=1a1b27" alt="Open Source" />
-
-</td>
-<td width="33%" valign="top" align="center"></td>
 </tr>
 </table>
 
-<p align="center"><sub>🔒 The apps above are built in private repos — the links go straight to the live product.</sub></p>
+<p align="center"><sub>🔒 Most of these ship from private repos — the links go straight to the live product. <a href="https://github.com/cdrrazan/Roost">Roost</a> is open source.</sub></p>
 
 <br/>
 
