@@ -28,7 +28,7 @@ I am committed to leveraging my skills and knowledge to drive innovation and exc
 
 Every subscription in one place — never miss a payment.
 
-<a href="https://trackaru.com"><img src="https://img.shields.io/badge/trackaru.com-3B82F6?style=flat&logo=googlechrome&logoColor=white" alt="trackaru.com" /></a>
+<a href="https://trackaru.com"><code>trackaru.com&nbsp;↗</code></a>
 
 </td>
 <td colspan="3" width="50%" valign="top" align="center">
@@ -37,7 +37,7 @@ Every subscription in one place — never miss a payment.
 
 Domain & SSL ops across every registrar, one dashboard.
 
-<a href="https://everest.trovaru.com"><img src="https://img.shields.io/badge/everest.trovaru.com-DC2626?style=flat&logo=googlechrome&logoColor=white" alt="everest.trovaru.com" /></a>
+<a href="https://everest.trovaru.com"><code>everest.trovaru.com&nbsp;↗</code></a>
 
 </td>
 </tr>
@@ -48,7 +48,7 @@ Domain & SSL ops across every registrar, one dashboard.
 
 Short links, analytics, and QR codes.
 
-<a href="https://linkaru.com"><img src="https://img.shields.io/badge/linkaru.com-8B5CF6?style=flat&logo=googlechrome&logoColor=white" alt="linkaru.com" /></a>
+<a href="https://linkaru.com"><code>linkaru.com&nbsp;↗</code></a>
 
 </td>
 <td colspan="2" width="33%" valign="top" align="center">
@@ -57,7 +57,7 @@ Short links, analytics, and QR codes.
 
 A private writing vault — publish an entry when you choose.
 
-<a href="https://keeparu.byaru.com"><img src="https://img.shields.io/badge/keeparu.byaru.com-EC4899?style=flat&logo=googlechrome&logoColor=white" alt="keeparu.byaru.com" /></a>
+<a href="https://keeparu.byaru.com"><code>keeparu.byaru.com&nbsp;↗</code></a>
 
 </td>
 <td colspan="2" width="33%" valign="top" align="center">
@@ -66,7 +66,7 @@ A private writing vault — publish an entry when you choose.
 
 Unlimited link-in-bio pages on your own domain.
 
-<a href="https://linkart.byaru.com"><img src="https://img.shields.io/badge/linkart.byaru.com-F97316?style=flat&logo=googlechrome&logoColor=white" alt="linkart.byaru.com" /></a>
+<a href="https://linkart.byaru.com"><code>linkart.byaru.com&nbsp;↗</code></a>
 
 </td>
 </tr>
@@ -77,8 +77,8 @@ Unlimited link-in-bio pages on your own domain.
 
 Local apps live on your own domain, from one config file.
 
-<a href="https://roost.app.rsynk.com"><img src="https://img.shields.io/badge/roost.app.rsynk.com-0891B2?style=flat&logo=googlechrome&logoColor=white" alt="roost.app.rsynk.com" /></a>
-<a href="https://github.com/cdrrazan/Roost"><img src="https://img.shields.io/badge/-1a1b27?style=flat&logo=github&logoColor=white" alt="Roost on GitHub" /></a>
+<a href="https://roost.app.rsynk.com"><code>roost.app.rsynk.com&nbsp;↗</code></a>
+<a href="https://github.com/cdrrazan/Roost"><code>github&nbsp;↗</code></a>
 
 </td>
 <td colspan="2" width="33%" valign="top" align="center">
@@ -87,7 +87,7 @@ Local apps live on your own domain, from one config file.
 
 End-to-end encrypted pastebin. One view, then gone.
 
-<a href="https://pasten.byaru.com"><img src="https://img.shields.io/badge/pasten.byaru.com-6366F1?style=flat&logo=googlechrome&logoColor=white" alt="pasten.byaru.com" /></a>
+<a href="https://pasten.byaru.com"><code>pasten.byaru.com&nbsp;↗</code></a>
 
 </td>
 <td colspan="2" width="33%" valign="top" align="center">
@@ -96,7 +96,7 @@ End-to-end encrypted pastebin. One view, then gone.
 
 Self-hosted bookmarks, entirely on Cloudflare Pages.
 
-<a href="https://kroma.byaru.com"><img src="https://img.shields.io/badge/kroma.byaru.com-D97706?style=flat&logo=googlechrome&logoColor=white" alt="kroma.byaru.com" /></a>
+<a href="https://kroma.byaru.com"><code>kroma.byaru.com&nbsp;↗</code></a>
 
 </td>
 </tr>
