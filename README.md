@@ -33,7 +33,7 @@ Every subscription in one place — never miss a payment.
 </td>
 <td colspan="3" width="50%" valign="top" align="center">
 
-<a href="https://everest.trovaru.com"><img src="https://img.shields.io/badge/Trovaru-DC2626?style=flat&logo=rubyonrails&logoColor=white" alt="Trovaru" /></a>
+<a href="https://everest.trovaru.com"><img src="https://img.shields.io/badge/Trovaru-059669?style=flat&logo=rubyonrails&logoColor=white" alt="Trovaru" /></a>
 
 Domain & SSL ops across every registrar, one dashboard.
 
@@ -44,7 +44,7 @@ Domain & SSL ops across every registrar, one dashboard.
 <tr>
 <td colspan="2" width="33%" valign="top" align="center">
 
-<a href="https://linkaru.com"><img src="https://img.shields.io/badge/Linkaru-8B5CF6?style=flat&logo=typescript&logoColor=white" alt="Linkaru" /></a>
+<a href="https://linkaru.com"><img src="https://img.shields.io/badge/Linkaru-D97706?style=flat&logo=typescript&logoColor=white" alt="Linkaru" /></a>
 
 Short links, analytics, and QR codes.
 
@@ -53,7 +53,7 @@ Short links, analytics, and QR codes.
 </td>
 <td colspan="2" width="33%" valign="top" align="center">
 
-<a href="https://keeparu.byaru.com"><img src="https://img.shields.io/badge/Keeparu-EC4899?style=flat&logo=rubyonrails&logoColor=white" alt="Keeparu" /></a>
+<a href="https://keeparu.byaru.com"><img src="https://img.shields.io/badge/Keeparu-E11D48?style=flat&logo=rubyonrails&logoColor=white" alt="Keeparu" /></a>
 
 A private writing vault — publish an entry when you choose.
 
@@ -62,7 +62,7 @@ A private writing vault — publish an entry when you choose.
 </td>
 <td colspan="2" width="33%" valign="top" align="center">
 
-<a href="https://linkart.byaru.com"><img src="https://img.shields.io/badge/Linkart-F97316?style=flat&logo=rubyonrails&logoColor=white" alt="Linkart" /></a>
+<a href="https://linkart.byaru.com"><img src="https://img.shields.io/badge/Linkart-7C3AED?style=flat&logo=rubyonrails&logoColor=white" alt="Linkart" /></a>
 
 Unlimited link-in-bio pages on your own domain.
 
@@ -83,7 +83,7 @@ Local apps live on your own domain, from one config file.
 </td>
 <td colspan="2" width="33%" valign="top" align="center">
 
-<a href="https://pasten.byaru.com"><img src="https://img.shields.io/badge/PasteN-6366F1?style=flat&logo=rubyonrails&logoColor=white" alt="PasteN" /></a>
+<a href="https://pasten.byaru.com"><img src="https://img.shields.io/badge/PasteN-EA580C?style=flat&logo=rubyonrails&logoColor=white" alt="PasteN" /></a>
 
 End-to-end encrypted pastebin. One view, then gone.
 
@@ -92,7 +92,7 @@ End-to-end encrypted pastebin. One view, then gone.
 </td>
 <td colspan="2" width="33%" valign="top" align="center">
 
-<a href="https://kroma.byaru.com"><img src="https://img.shields.io/badge/Kromab-D97706?style=flat&logo=cloudflare&logoColor=white" alt="Kromab" /></a>
+<a href="https://kroma.byaru.com"><img src="https://img.shields.io/badge/Kromab-475569?style=flat&logo=cloudflare&logoColor=white" alt="Kromab" /></a>
 
 Self-hosted bookmarks, entirely on Cloudflare Pages.
 
