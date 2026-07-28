@@ -34,11 +34,11 @@ Track every subscription in one place and never miss a payment again.
 </td>
 <td width="33%" valign="top" align="center">
 
-<a href="https://trovaru.com"><img src="https://img.shields.io/badge/Trovaru-1a1b27?style=for-the-badge&logo=rubyonrails&logoColor=70a5fd" alt="Trovaru" /></a>
+<a href="https://everest.trovaru.com"><img src="https://img.shields.io/badge/Trovaru-1a1b27?style=for-the-badge&logo=rubyonrails&logoColor=70a5fd" alt="Trovaru" /></a>
 
 Domain & SSL operations for agencies and startups — one dashboard for domains spread across multiple registrars.
 
-<a href="https://trovaru.com"><img src="https://img.shields.io/badge/live-trovaru.com-38bdae?style=flat-square&labelColor=1a1b27" alt="live at trovaru.com" /></a>
+<a href="https://everest.trovaru.com"><img src="https://img.shields.io/badge/live-everest.trovaru.com-38bdae?style=flat-square&labelColor=1a1b27" alt="live at everest.trovaru.com" /></a>
 <img src="https://img.shields.io/badge/Rails-bf91f3?style=flat-square&labelColor=1a1b27" alt="Rails" />
 
 </td>
@@ -57,21 +57,21 @@ URL shortening, link analytics, and QR codes in one platform.
 </td>
 <td width="33%" valign="top" align="center">
 
-<a href="https://keeparu.com"><img src="https://img.shields.io/badge/Keeparu-1a1b27?style=for-the-badge&logo=rubyonrails&logoColor=70a5fd" alt="Keeparu" /></a>
+<a href="https://keeparu.byaru.com"><img src="https://img.shields.io/badge/Keeparu-1a1b27?style=for-the-badge&logo=rubyonrails&logoColor=70a5fd" alt="Keeparu" /></a>
 
 A private writing vault where any entry can be deliberately promoted to a public, shareable URL.
 
-<a href="https://keeparu.com"><img src="https://img.shields.io/badge/live-keeparu.com-38bdae?style=flat-square&labelColor=1a1b27" alt="live at keeparu.com" /></a>
+<a href="https://keeparu.byaru.com"><img src="https://img.shields.io/badge/live-keeparu.byaru.com-38bdae?style=flat-square&labelColor=1a1b27" alt="live at keeparu.byaru.com" /></a>
 <img src="https://img.shields.io/badge/Rails-bf91f3?style=flat-square&labelColor=1a1b27" alt="Rails" />
 
 </td>
 <td width="33%" valign="top" align="center">
 
-<a href="https://linkart.me"><img src="https://img.shields.io/badge/Linkart-1a1b27?style=for-the-badge&logo=rubyonrails&logoColor=70a5fd" alt="Linkart" /></a>
+<a href="https://linkart.byaru.com"><img src="https://img.shields.io/badge/Linkart-1a1b27?style=for-the-badge&logo=rubyonrails&logoColor=70a5fd" alt="Linkart" /></a>
 
 Build unlimited pages of social links and publish them straight to the app domain.
 
-<a href="https://linkart.me"><img src="https://img.shields.io/badge/live-linkart.me-38bdae?style=flat-square&labelColor=1a1b27" alt="live at linkart.me" /></a>
+<a href="https://linkart.byaru.com"><img src="https://img.shields.io/badge/live-linkart.byaru.com-38bdae?style=flat-square&labelColor=1a1b27" alt="live at linkart.byaru.com" /></a>
 <img src="https://img.shields.io/badge/Rails-bf91f3?style=flat-square&labelColor=1a1b27" alt="Rails" />
 
 </td>
@@ -99,11 +99,11 @@ An end-to-end encrypted, one-time-view pastebin. Read it once and it's gone.
 </td>
 <td width="33%" valign="top" align="center">
 
-<a href="https://kromab.pages.dev"><img src="https://img.shields.io/badge/Kromab-1a1b27?style=for-the-badge&logo=cloudflare&logoColor=70a5fd" alt="Kromab" /></a>
+<a href="https://kroma.byaru.com"><img src="https://img.shields.io/badge/Kromab-1a1b27?style=for-the-badge&logo=cloudflare&logoColor=70a5fd" alt="Kromab" /></a>
 
 A tiny self-hosted bookmark manager that runs entirely on Cloudflare Pages.
 
-<a href="https://kromab.pages.dev"><img src="https://img.shields.io/badge/live-kromab.pages.dev-38bdae?style=flat-square&labelColor=1a1b27" alt="live at kromab.pages.dev" /></a>
+<a href="https://kroma.byaru.com"><img src="https://img.shields.io/badge/live-kroma.byaru.com-38bdae?style=flat-square&labelColor=1a1b27" alt="live at kroma.byaru.com" /></a>
 <img src="https://img.shields.io/badge/Cloudflare-bf91f3?style=flat-square&labelColor=1a1b27" alt="Cloudflare" />
 
 </td>
