@@ -109,4 +109,4 @@ Self-hosted bookmarks, entirely on Cloudflare Pages.
 ✉️ Reach me on **[my Twitter](https://x.com/cdrrazan)** or **[mail me here](mailto:rajan@rajanbhattarai.com)**.
 <br/>
 
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/D1D01BILA6)
+[![Support me on Buy Me Momo](https://img.shields.io/badge/Support%20me%20on-BuyMeMomo-FF6B35?style=for-the-badge&logo=buymeacoffee&logoColor=white)](https://buymemomo.com/rajan)
